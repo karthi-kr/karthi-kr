@@ -1,0 +1,4 @@
+- 👋 Hi, I’m karthickraja
+- 👀 I’m interested in mern stack
+- 🌱 I’m currently learning react js
+- 📫 How to reach me karthi28kr@gmail.com
