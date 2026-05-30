@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm K R Karthi</h1>
-<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">Frontend Engineer | Angular Specialist | Building Scalable Web Apps 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+4+Years+Experience;Angular+%7C+TypeScript+%7C+RxJS;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Angular+Developer+%7C+4%2B+Years+Experience;TypeScript+%7C+RxJS+%7C+PrimeNG+Expert;Building+Enterprise+Web+Applications;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working as a **Frontend Developer**
-- 🌱 I'm currently learning **Angular 17, NgRx, Micro Frontends**
-- 💬 Ask me about **Angular, TypeScript, RxJS, JavaScript**
-- 📫 Reach me at **krkarthi199@gmail.com**
-- ⚡ Fun fact: I turn coffee into Angular components ☕
+🏢 Currently working as a **Technical Consultant** at **Perficient India, Chennai**
+
+⚡ I specialize in building **scalable enterprise web applications** using Angular and TypeScript — from dynamic UI components to RESTful API integrations.
+
+🧩 I love crafting **reusable component libraries** — I've built custom editors, dropdowns, and multi-select components that reduced development time across teams.
+
+🎨 Led a complete **UI rebranding initiative** — standardizing design systems with centralized stylesheets, logos, colors and typography.
+
+📱 Experienced in both **web and mobile** frontend development ensuring consistent UX across platforms.
+
+🧪 Strong in **unit testing** with Jasmine & Karma and cross-browser compatibility testing.
+
+🌱 Currently exploring **NgRx State Management** and **Micro Frontend Architecture**
 
 ---
 
@@ -25,8 +33,21 @@
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 💼 Experience Highlights
+
+🔹 **4+ years** of enterprise Angular development
+🔹 Built **reusable component libraries** saving significant dev time
+🔹 Integrated **RESTful APIs** with optimized form handling
+🔹 Led **UI rebranding** with centralized design system
+🔹 Practiced **Agile/Scrum** in cross-functional teams
+🔹 Strong in **performance optimization** and cross-browser testing
 
 ---
 
