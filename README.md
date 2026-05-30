@@ -42,7 +42,7 @@
 
 ### 💼 Experience Highlights
 
-🔹 **4+ years** of enterprise Angular development
+<br>🔹 **4+ years** of enterprise Angular development <br/>
 🔹 Built **reusable component libraries** saving significant dev time
 🔹 Integrated **RESTful APIs** with optimized form handling
 🔹 Led **UI rebranding** with centralized design system
