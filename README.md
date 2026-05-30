@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K R Karthi</h1>
+<h1 align="center">Hey, I'm Karthi ⚡</h1>
 <h3 align="center">Frontend Engineer | Angular Specialist | Building Scalable Web Apps 🚀</h3>
 
 <p align="center">
