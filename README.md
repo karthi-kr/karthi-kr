@@ -43,11 +43,11 @@
 ### 💼 Experience Highlights
 
 <br>🔹 **4+ years** of enterprise Angular development <br/>
-🔹 Built **reusable component libraries** saving significant dev time
-🔹 Integrated **RESTful APIs** with optimized form handling
-🔹 Led **UI rebranding** with centralized design system
-🔹 Practiced **Agile/Scrum** in cross-functional teams
-🔹 Strong in **performance optimization** and cross-browser testing
+<br>🔹 Built **reusable component libraries** saving significant dev time <br/>
+<br>🔹 Integrated **RESTful APIs** with optimized form handling <br/>
+<br>🔹 Led **UI rebranding** with centralized design system <br/>
+<br>🔹 Practiced **Agile/Scrum** in cross-functional teams <br/>
+<br>🔹 Strong in **performance optimization** and cross-browser testing <br/>
 
 ---
 
